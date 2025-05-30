@@ -40,7 +40,11 @@ resume-screening-app/
 
 ![Image](https://github.com/user-attachments/assets/98efc075-7d6d-4ab7-b478-bc22df4ef7af)
 
+---
+
 ![Image](https://github.com/user-attachments/assets/4cd49764-58f4-427d-b058-f8bdbff70d13)
+
+---
 
 ![Image](https://github.com/user-attachments/assets/f69eabe5-d80c-4be5-b02a-e942c15c16f9)
 
